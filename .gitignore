@@ -1,0 +1,3 @@
+*.asm
+*.obj
+**/__pycache__
